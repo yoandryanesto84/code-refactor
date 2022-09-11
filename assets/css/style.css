@@ -29,9 +29,7 @@ ul {
     list-style-type: none;
   }
 
-/* header div ul {
-    list-style-type: none;
-} */
+
 
 li {
     display: inline-block;
@@ -53,7 +51,7 @@ p {
     margin-bottom: 25px;
     background-size: cover;
     background-position: center; 
-    /* background-image: url("../images/digital-marketing-meeting.jpg"); */
+    background-image: url("../images/digital-marketing-meeting.jpg");
 } 
 
 .float-left {
@@ -113,13 +111,13 @@ h3 {
     text-align: center;
 } */
 
-.benefit-lead img {
+.benefit-lead img, .benefit-brand img, .benefit-cost img   {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
+/* .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -129,16 +127,15 @@ h3 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} */
 
-section {
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    /* max-height: 200px; */
 }
 
 /* .online-reputation-management {
@@ -159,18 +156,19 @@ section {
     color: #ffffff;
 } */
 
-.search-engine-optimization img {
+
+main section img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
+/* .online-reputation-management img {
     max-height: 200px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
-} 
-/* Why cant I put the property inside of section? */
+}  */
+
 
 h2 {
     margin-bottom: 20px;

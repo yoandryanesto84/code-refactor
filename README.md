@@ -1,5 +1,5 @@
 User Story
-AS A student
+AS A Boot Camp student
 
 I WANT that the codebase given for the first challenge follows accessibility standards
 

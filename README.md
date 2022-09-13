@@ -15,7 +15,7 @@ A new id was created because in the original index file there was an element in 
 
 ## Mock-up
 
-The following image shows the web application's appearance:
+THE following image shows the web application's appearance:
 [https://yoandryanesto84.github.io/code-refactor/](https://yoandryanesto84.github.io/code-refactor/)
 
 ## Repository address 
